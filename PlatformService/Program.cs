@@ -37,7 +37,7 @@ app.MapGet("/weatherforecast", () =>
     return forecast;
 })
 .WithName("GetWeatherForecast");
-
+PrepDb.PrepPopulation(app, app.Environment.IsProduction());
 app.Run();
 
 record WeatherForecast(DateOnly Date, int TemperatureC, string? Summary)
