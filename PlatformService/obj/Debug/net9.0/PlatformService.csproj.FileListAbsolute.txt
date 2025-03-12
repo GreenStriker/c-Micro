@@ -158,4 +158,3 @@ C:\Users\moukh\c#Micro\PlatformService\obj\Debug\net9.0\ref\PlatformService.dll
 C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\Swashbuckle.AspNetCore.Swagger.dll
 C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
-C:\Users\moukh\c#Micro\PlatformService\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
