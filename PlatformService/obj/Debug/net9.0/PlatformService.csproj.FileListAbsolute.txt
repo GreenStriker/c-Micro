@@ -159,3 +159,4 @@ C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\Swashbuckle.AspNetCore.S
 C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerGen.dll
 C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\Swashbuckle.AspNetCore.SwaggerUI.dll
 C:\Users\moukh\c#Micro\PlatformService\obj\Debug\net9.0\PlatformService.sourcelink.json
+C:\Users\moukh\c#Micro\PlatformService\bin\Debug\net9.0\appsettings.Production.json
